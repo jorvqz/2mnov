@@ -1,0 +1,5 @@
+.moving-image {
+    position: absolute;
+    transform: translateY(-10%);
+    width: 100px; /* Adjust width as needed */
+  }
