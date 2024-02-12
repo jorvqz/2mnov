@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3032fea7.css",
-    "main.js": "/static/js/main.33178953.js",
-    "static/js/592.6d785ced.chunk.js": "/static/js/592.6d785ced.chunk.js",
-    "static/media/gato en nave espacial2.png": "/static/media/gato en nave espacial2.3ae96d982b5423ff79c7.png",
-    "index.html": "/index.html",
-    "main.3032fea7.css.map": "/static/css/main.3032fea7.css.map",
-    "main.33178953.js.map": "/static/js/main.33178953.js.map",
-    "592.6d785ced.chunk.js.map": "/static/js/592.6d785ced.chunk.js.map"
+    "main.css": "/2mnov/static/css/main.3032fea7.css",
+    "main.js": "/2mnov/static/js/main.80c01c70.js",
+    "static/js/592.6d785ced.chunk.js": "/2mnov/static/js/592.6d785ced.chunk.js",
+    "static/media/gato en nave espacial2.png": "/2mnov/static/media/gato en nave espacial2.3ae96d982b5423ff79c7.png",
+    "index.html": "/2mnov/index.html",
+    "main.3032fea7.css.map": "/2mnov/static/css/main.3032fea7.css.map",
+    "main.80c01c70.js.map": "/2mnov/static/js/main.80c01c70.js.map",
+    "592.6d785ced.chunk.js.map": "/2mnov/static/js/592.6d785ced.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3032fea7.css",
-    "static/js/main.33178953.js"
+    "static/js/main.80c01c70.js"
   ]
 }
