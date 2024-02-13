@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/2mnov/static/css/main.3032fea7.css",
-    "main.js": "/2mnov/static/js/main.80c01c70.js",
+    "main.css": "/2mnov/static/css/main.e35255f3.css",
+    "main.js": "/2mnov/static/js/main.d7ce02c8.js",
+    "static/js/508.1cefa6eb.chunk.js": "/2mnov/static/js/508.1cefa6eb.chunk.js",
     "static/js/592.6d785ced.chunk.js": "/2mnov/static/js/592.6d785ced.chunk.js",
-    "static/media/gato en nave espacial2.png": "/2mnov/static/media/gato en nave espacial2.3ae96d982b5423ff79c7.png",
+    "static/media/memeSong.mp3": "/2mnov/static/media/memeSong.4e8b41f1a2f02ad755ae.mp3",
+    "static/media/roses.webp": "/2mnov/static/media/roses.466bfc2f1e56a8bb02d6.webp",
+    "static/media/condemned.png": "/2mnov/static/media/condemned.d1f2b9675d36738cdd23.png",
+    "static/media/earth.jpg": "/2mnov/static/media/earth.8f85b0add1fd5b0d2652.jpg",
     "index.html": "/2mnov/index.html",
-    "main.3032fea7.css.map": "/2mnov/static/css/main.3032fea7.css.map",
-    "main.80c01c70.js.map": "/2mnov/static/js/main.80c01c70.js.map",
+    "main.e35255f3.css.map": "/2mnov/static/css/main.e35255f3.css.map",
+    "main.d7ce02c8.js.map": "/2mnov/static/js/main.d7ce02c8.js.map",
+    "508.1cefa6eb.chunk.js.map": "/2mnov/static/js/508.1cefa6eb.chunk.js.map",
     "592.6d785ced.chunk.js.map": "/2mnov/static/js/592.6d785ced.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3032fea7.css",
-    "static/js/main.80c01c70.js"
+    "static/css/main.e35255f3.css",
+    "static/js/main.d7ce02c8.js"
   ]
 }
