@@ -1,19 +1,14 @@
-div.item {
+div.item2 {
     vertical-align: top;
     display: inline-block;
     text-align: center;
 }
-.img {
+.img2 {
     width: 30%;
     height: 30%;
 }
-.caption {
+.caption2 {
     display: block;
-    color: #ffffff;
+    color: #000000;
     font-size: 40px;
-}
-
-.captionWarning {
-    display: block;
-    color: #ffffff;
 }
