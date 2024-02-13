@@ -1,0 +1,14 @@
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+.img {
+    width: 30%;
+    height: 30%;
+}
+.caption {
+    display: block;
+    color: #ffffff;
+    font-size: 40px;
+}

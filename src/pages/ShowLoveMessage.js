@@ -28,7 +28,6 @@ function ShowLoveMessage() {
         <header className="MainPage-header">
             TQM
         </header>
-    <Hearth/>
 
     </div>
   );
